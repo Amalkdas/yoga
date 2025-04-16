@@ -1,0 +1,6 @@
+{
+
+    "editor.cursorStyle": "line",        // Use a thin vertical line cursor
+    "editor.cursorBlinking": "blink",    // Optional: Make the cursor blink (or "solid" for no blinking)
+    "editor.focusedWidgetBorder": "#FFFFFF00"
+}
